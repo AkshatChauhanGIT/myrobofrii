@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myrobofrii/static/css/main.db4b3cf4.chunk.css",
+    "main.js": "/myrobofrii/static/js/main.9504f965.chunk.js",
+    "main.js.map": "/myrobofrii/static/js/main.9504f965.chunk.js.map",
+    "runtime~main.js": "/myrobofrii/static/js/runtime~main.3de2e337.js",
+    "runtime~main.js.map": "/myrobofrii/static/js/runtime~main.3de2e337.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/myrobofrii/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.60246997.chunk.js": "/myrobofrii/static/js/2.60246997.chunk.js",
+    "static/js/2.60246997.chunk.js.map": "/myrobofrii/static/js/2.60246997.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "/myrobofrii/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "/myrobofrii/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "/myrobofrii/index.html",
+    "precache-manifest.013991e27c155ced80fccd1e35a48df2.js": "/myrobofrii/precache-manifest.013991e27c155ced80fccd1e35a48df2.js",
+    "service-worker.js": "/myrobofrii/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/myrobofrii/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.db4b3cf4.chunk.css.map": "/myrobofrii/static/css/main.db4b3cf4.chunk.css.map"
+  }
+}
